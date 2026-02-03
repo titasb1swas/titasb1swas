@@ -14,6 +14,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=titasb1swas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://raw.githubusercontent.com/your-username/your-repo/main/path-to-image.png)
+![](https://github-profile-trophy.vercel.app/?username=titasb1swas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=titasb1swas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
