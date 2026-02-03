@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Flutter Android dev • Firebase • Unity (Aim Trainer)🌱 Currently learning<br>Kotlin & backend automation with TypeScript.<br>💬 Ask me about<br>Flutter Android development.<br>⚡ Fun fact<br>I’m learning Kotlin while not using it professionally yet—which is intentional, not accidental.
+🔭 I’m currently working on Flutter Android dev • Firebase • Unity (Aim Trainer)<br>🌱 Currently learning Kotlin & backend automation with TypeScript.<br>💬 Ask me about Flutter Android development.<br>⚡ Fun fact I’m learning Kotlin while not using it professionally yet—which is intentional, not accidental.
 
 
 ## 🌐 Socials:
