@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on <br>Android applications built with Flutter,<br>experimenting with Firebase (Firestore + Cloud Functions),<br>small automation/scraping utilities using TypeScript and<br>an Aim Trainer game developed using the Unity game engine.<br>🌱 Currently learning<br>Kotlin (language fundamentals and ecosystem), <br>Flutter for Android app development, <br>Firebase (Firestore & Cloud Functions), <br>TypeScript for backend/scraping tasks, <br>and Unity game development.<br>💬 Ask me about<br>Flutter Android development, <br>Firebase integration, <br>learning Kotlin as an Android dev, <br>Unity beginner game development, <br>or building real projects instead of tutorial-only apps.<br>⚡ Fun fact<br>I’m learning Kotlin while not using it professionally yet—which is intentional, not accidental.
+🔭 I’m currently working on Flutter Android dev • Firebase • Unity (Aim Trainer)🌱 Currently learning<br>Kotlin & backend automation with TypeScript.<br>💬 Ask me about<br>Flutter Android development.<br>⚡ Fun fact<br>I’m learning Kotlin while not using it professionally yet—which is intentional, not accidental.
 
 
 ## 🌐 Socials:
