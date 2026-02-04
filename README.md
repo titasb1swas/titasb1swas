@@ -23,5 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=titasb1swas&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://wakatime.com/share/@titasbiswas/133d5a1a-d183-4b63-9e72-ce7a6a3b34dc.svg)](https://visitcount.itsvg.in)
+src="https://wakatime.com/share/@titasbiswas/133d5a1a-d183-4b63-9e72-ce7a6a3b34dc.svg"
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
