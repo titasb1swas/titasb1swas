@@ -25,5 +25,5 @@
 [![](https://visitcount.itsvg.in/api?id=titasb1swas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🕓 WakaTime Activity
-[![](https://wakatime.com/share/@titasbiswas/133d5a1a-d183-4b63-9e72-ce7a6a3b34dc.svg)]
+[![](https://wakatime.com/share/@titasbiswas/c45c8b49-bdb7-4457-9c0f-fe3e121350cb.svg)]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
