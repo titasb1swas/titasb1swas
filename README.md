@@ -18,12 +18,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=titasb1swas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=titasb1swas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🕓 WakaTime Activity
+[![](https://wakatime.com/share/@titasbiswas/c45c8b49-bdb7-4457-9c0f-fe3e121350cb.svg)]
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=titasb1swas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=titasb1swas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🕓 WakaTime Activity
-[![](https://wakatime.com/share/@titasbiswas/c45c8b49-bdb7-4457-9c0f-fe3e121350cb.svg)]
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
