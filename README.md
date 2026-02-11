@@ -19,8 +19,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=titasb1swas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🕓 WakaTime Activity
-![](https://wakatime.com/share/@titasbiswas/c45c8b49-bdb7-4457-9c0f-fe3e121350cb.svg)
-![](https://wakatime.com/share/@titasbiswas/981b2459-4cd6-4986-8269-429ea2e1bc85.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=titasb1swas&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=titasb1swas&theme=dark&hide_border=false" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titasb1swas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=titasb1swas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
