@@ -20,6 +20,7 @@
 
 ## 🕓 WakaTime Activity
 ![](https://wakatime.com/share/@titasbiswas/c45c8b49-bdb7-4457-9c0f-fe3e121350cb.svg)
+![](https://wakatime.com/share/@titasbiswas/981b2459-4cd6-4986-8269-429ea2e1bc85.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=titasb1swas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
