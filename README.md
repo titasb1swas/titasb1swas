@@ -26,6 +26,7 @@
 <img src="https://wakatime.com/share/@titasbiswas/3d166e4a-244d-44ff-a771-c1f38baea051.svg" width="400"/>
 
 ## 🏆 GitHub Trophies
+[![trophy](http://localhost:8080/?username=titasb1swas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-trophy.vercel.app/?username=titasb1swas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
